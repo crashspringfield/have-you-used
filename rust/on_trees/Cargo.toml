@@ -1,0 +1,17 @@
+[package]
+name = "on_trees"
+version = "0.1.0"
+authors = ["crash <ccrsh@riseup.net>"]
+edition = "2018"
+
+[lib]
+name = "on_trees_lib"
+path = "src/lib.rs"
+
+[[bin]]
+name = "on_trees"
+path = "src/main.rs"
+
+[dependencies]
+hex = "0.3.2"
+crypto-hash = "0.3.3"
