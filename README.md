@@ -11,4 +11,7 @@ the README will provide a link. Introductory toy projects live here.
           |---ember
         -/node
         -/php
+        -/ruby
+          |---rubysoho
         -/rust
+          |---on_trees

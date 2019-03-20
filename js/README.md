@@ -18,8 +18,8 @@
 * [WNC Copwatch](https://github.com/crashspringfield/WNC-Copwatch) - Vue frontend, Vuex state management (version 1)
 
 ### Ember
-
 (see subdirectory)
+
 ## Libraries, etc.
 
 ### GraphQL
